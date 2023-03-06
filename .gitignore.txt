@@ -3,6 +3,8 @@
 *~
 __pycache__
 
+local_settings.py
+
 # Env
 .env
 myvenv/
@@ -30,3 +32,4 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
+
